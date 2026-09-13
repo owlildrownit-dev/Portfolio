@@ -1,0 +1,56 @@
+site_name: Daniil Krivoshein — Technical Writer
+site_description: Technical writing portfolio featuring software documentation, API references, user guides, and knowledge base articles.
+site_author: Daniil Krivoshein
+theme:
+  name: material
+  language: en
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - content.code.copy
+    - search.suggest
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: blue
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: blue
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+nav:
+  - Home: index.md
+  - About: about.md
+  - Portfolio:
+      - Overview: portfolio.md
+      - Railway Program Description: samples/program-description.md
+      - Red Light Technical Report: samples/red-light-report.md
+      - Railway Station IS: projects/railway-station.md
+      - Red Light Detection: projects/red-light-detection.md
+      - REST API Sample: api/index.md
+      - OpenAPI Specification: api/openapi.yaml
+      - Installation Guide: guides/installation.md
+      - Knowledge Base Article: knowledge-base/server-connection.md
+  - Skills: skills.md
+  - Resume: resume.md
+  - Contacts: contacts.md
+markdown_extensions:
+  - admonition
+  - attr_list
+  - pymdownx.details
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.superfences
+  - tables
+plugins:
+  - search
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/owlildrownit-dev
+copyright: Copyright &copy; 2026 Daniil Krivoshein
