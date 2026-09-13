@@ -1,10 +1,3 @@
 # Resume
 
-The downloadable resume will be added after the current English CV is confirmed.
-
-## Planned links
-
-- English resume
-- Russian resume
-
-Before publication, replace this page with verified resume files or public links.
+My current resume is available on request. Use the details on the [Contacts](contacts.md) page to get in touch.

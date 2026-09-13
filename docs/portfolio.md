@@ -9,7 +9,7 @@ I wrote, formatted, edited, and corrected both documents below. The source docum
 | [Railway automation program description](samples/program-description.md) | Word | Purpose, logical structure, hardware, launch, data |
 | [Red light detection technical report](samples/red-light-report.md) | PDF | Requirements, diagrams, API, installation, testing section |
 
-Each case links to the supplied document and identifies relevant sections and the current review status.
+Each case links to the document and identifies relevant sections, audience, and contribution.
 
 ## Demonstration material
 
@@ -23,5 +23,5 @@ The following pages were prepared as portfolio demonstrations. They are not pres
 
 ## Project context
 
-- [Railway Station Information System](projects/railway-station.md) — preliminary educational project outline; separate from the railway automation program description.
+- [Railway Station Information System](projects/railway-station.md) — documentation outline for an educational web application; separate from the railway automation program description.
 - [Red Light Detection](projects/red-light-detection.md) — context supported by the supplied report.

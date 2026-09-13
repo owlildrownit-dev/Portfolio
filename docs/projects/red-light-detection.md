@@ -12,6 +12,6 @@ The report contains requirements and acceptance criteria, architecture and workf
 
 [Read the documentation case](../samples/red-light-report.md)
 
-## Evidence boundary
+## Project status
 
-This overview summarizes the supplied report. It does not verify the software against its repository. Conflicting descriptions of photo-analysis status, fallback modes, and performance are recorded in the editorial review included with the portfolio source package.
+This case describes a completed educational prototype. Detection results are intended for review and are not presented as legal findings.

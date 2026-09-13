@@ -34,4 +34,4 @@ The annotation states that the document was prepared with consideration of GOST 
 
 [Download the supplied Word sample](../downloads/railway-program-description.docx)
 
-**Source:** supplied document “Описание программы”, annotation, sections 1–7, and appendices. My contribution is described as confirmed by me for this portfolio. The sample documents an existing software subject; it does not imply that I developed that software.
+**Source document:** “Описание программы”, sections 1–7 and appendices. My contribution covers writing, formatting, editing, and revision of the document. The sample documents an existing software product; it does not imply that I developed the software itself.

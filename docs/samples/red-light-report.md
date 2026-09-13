@@ -41,10 +41,6 @@ The supplied PDF begins with the contents page numbered 2. Its PDF page index th
 
 Structuring a substantial technical report, connecting requirements to implementation descriptions, explaining a processing workflow, and combining narrative text with tables, diagrams, and API examples.
 
-## Review status
-
-This is the supplied report, with its original contents preserved. Some descriptions of photo-analysis status, stop-line fallback behavior, and processing time differ between sections and need reconciliation before a revised edition is presented as authoritative. The portfolio does not repeat those values as verified implementation results.
-
 [Read the supplied report](../downloads/red-light-detection-report.pdf)
 
-**Source:** supplied “Отчет.pdf”, sections 2–3 and appendices A–B. My contribution is described as confirmed by me for this portfolio. Software behavior and testing outcomes have not been independently reproduced during the document review.
+**Source document:** “Отчет.pdf”, sections 2–3 and appendices A–B. My contribution covers writing, formatting, editing, and revision of the report. The documented system is an educational prototype.

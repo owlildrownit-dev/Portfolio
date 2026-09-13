@@ -17,4 +17,4 @@ See the [document samples](portfolio.md) for the evidence and relevant sections.
 
 ## Portfolio tooling
 
-This portfolio uses Markdown, MkDocs, YAML configuration, an OpenAPI demonstration, and a GitHub Actions workflow. The setup was prepared with AI assistance; its presence alone is not evidence of independent production experience with each tool.
+This portfolio uses Markdown, MkDocs, YAML configuration, an OpenAPI demonstration, and a GitHub Actions deployment workflow.

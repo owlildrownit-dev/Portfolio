@@ -12,11 +12,11 @@ This guide is for reviewers or contributors who want to run the portfolio locall
 
 ## Installation
 
-1. Extract the supplied portfolio ZIP and open its folder in a terminal. Once the repository has been created and published, it can also be cloned:
+1. Clone the repository and open its directory:
 
     ```bash
-    git clone https://github.com/owlildrownit-dev/tech-writing-portfolio.git
-    cd tech-writing-portfolio
+    git clone https://github.com/owlildrownit-dev/Portfolio.git
+    cd Portfolio
     ```
 
 2. Create a virtual environment:

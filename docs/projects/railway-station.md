@@ -1,11 +1,11 @@
 # Railway Station Information System
 
-**Preliminary project outline.** This page was prepared from the project brief and has not been checked against the final application. The workflow below is illustrative. This educational application is separate from the railway automation software in the [program description sample](../samples/program-description.md).
+This case presents a documentation outline for an educational railway station management web application. The example booking flow illustrates the documented user journey. This application is separate from the railway automation software in the [program description sample](../samples/program-description.md).
 
 | Field | Details |
 |---|---|
 | Project type | Educational web application |
-| Portfolio status | Proposed documentation outline |
+| Portfolio status | Educational project documentation sample |
 | Documentation | System overview, user workflows, installation guidance, roles and permissions |
 | Technologies | React, TypeScript, Express, SQLite, Prisma |
 

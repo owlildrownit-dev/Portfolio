@@ -1,6 +1,9 @@
 site_name: Daniil Krivoshein — Technical Writer
 site_description: Technical writing portfolio featuring software documentation, API references, user guides, and knowledge base articles.
 site_author: Daniil Krivoshein
+site_url: https://owlildrownit-dev.github.io/Portfolio/
+repo_url: https://github.com/owlildrownit-dev/Portfolio
+repo_name: owlildrownit-dev/Portfolio
 theme:
   name: material
   language: en
@@ -37,7 +40,6 @@ nav:
       - Installation Guide: guides/installation.md
       - Knowledge Base Article: knowledge-base/server-connection.md
   - Skills: skills.md
-  - Resume: resume.md
   - Contacts: contacts.md
 markdown_extensions:
   - admonition

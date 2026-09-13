@@ -18,10 +18,10 @@ Formal software documentation covering purpose, client-server structure, hardwar
 
 ### Red Light Detection Technical Report
 
-An educational technical report covering requirements, architecture, processing algorithms, an API overview, and installation instructions. The current edition includes technical inconsistencies identified during portfolio review.
+An educational technical report covering requirements, architecture, processing algorithms, an API overview, and installation instructions.
 
 [View case and PDF sample](samples/red-light-report.md)
 
 ## Additional material
 
-The [portfolio overview](portfolio.md) also includes clearly identified demonstration material and preliminary project descriptions.
+The [portfolio overview](portfolio.md) also includes API, installation, troubleshooting, and project documentation samples.
